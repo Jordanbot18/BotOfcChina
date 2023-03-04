@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['51955095498', 'BotOfcChina', true],
-  ['51933348947', 'BotOfcChina(secundario)', true],
+  ['+54 9 249 451-3344', 'BotOfcChina', true],
+  ['51987602309', 'BotOfcChina(secundario)', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
